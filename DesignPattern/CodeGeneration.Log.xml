@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///D:/1-LOCALAPP/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Diagnostic" Text="ProjectPath = ..\DesignPatternLib\DesignPatternLib.csproj" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Diagnostic" Text="TemplateFilePath = D:\1-LOCALAPP\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\1-LOCALAPP\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2014-03-10T21:17:44" Importance="Medium" Text="DesignPattern's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'DesignPattern::Client' -  (Class), 'DesignPattern::OneProduct' -  (Class), 'DesignPattern::Factory' -  (Class) " />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Medium" Text="Project Added: D:\8-GitHub\150\Solutions150\DesignPatternLib\DesignPatternLib.csproj" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Medium" Text="'DesignPattern::Client' -  (Class) : success (file replaced) - D:\8-GitHub\150\Solutions150\DesignPatternLib\GeneratedCode\Client.cs" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Medium" Text="'DesignPattern::OneProduct' -  (Class) : success (file replaced) - D:\8-GitHub\150\Solutions150\DesignPatternLib\GeneratedCode\OneProduct.cs" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Medium" Text="'DesignPattern::Factory' -  (Class) : success (file replaced) - D:\8-GitHub\150\Solutions150\DesignPatternLib\GeneratedCode\Factory.cs" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="ProjectPath = ..\DesignPatternLib\DesignPatternLib.csproj" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="TemplateFilePath = D:\1-LOCALAPP\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\1-LOCALAPP\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Medium" Text="DesignPattern's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'DesignPattern::IProduct' -  (Interface) " />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Medium" Text="'DesignPattern::IProduct' -  (Interface) : success (file replaced) - D:\8-GitHub\150\Solutions150\DesignPatternLib\GeneratedCode\IProduct.cs" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="ProjectPath = ..\DesignPatternLib\DesignPatternLib.csproj" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="TemplateFilePath = D:\1-LOCALAPP\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="ResolvedTemplateFilePath = D:\1-LOCALAPP\MICROSOFT VISUAL STUDIO 12.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Medium" Text="DesignPattern's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'DesignPattern::Client' -  (Class), 'DesignPattern::OneProduct' -  (Class), 'DesignPattern::Factory' -  (Class) " />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="'DesignPattern::Client' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="'DesignPattern::OneProduct' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-10T21:17:45" Importance="Diagnostic" Text="'DesignPattern::Factory' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-10T21:17:46" Importance="Diagnostic" Text="The selection included 4 elements which were not bound to a template." />
+  <Message Timestamp="2014-03-10T21:17:46" Importance="Diagnostic" Text="'DesignPattern::' -  (Dependency): no bound template." />
+  <Message Timestamp="2014-03-10T21:17:46" Importance="Diagnostic" Text="'DesignPattern::' -  (Dependency): no bound template." />
+  <Message Timestamp="2014-03-10T21:17:46" Importance="Diagnostic" Text="'DesignPattern::' -  (InterfaceRealization): no bound template." />
+  <Message Timestamp="2014-03-10T21:17:46" Importance="Diagnostic" Text="'DesignPattern::' -  (Dependency): no bound template." />
+  <Message Timestamp="2014-03-10T21:17:46" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

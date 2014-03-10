@@ -1,0 +1,6 @@
+D:\8-GitHub\150\Solutions150\Practices\bin\Debug\Practices.exe.config
+D:\8-GitHub\150\Solutions150\Practices\bin\Debug\Practices.exe
+D:\8-GitHub\150\Solutions150\Practices\bin\Debug\Practices.pdb
+D:\8-GitHub\150\Solutions150\Practices\obj\Debug\Practices.csprojResolveAssemblyReference.cache
+D:\8-GitHub\150\Solutions150\Practices\obj\Debug\Practices.exe
+D:\8-GitHub\150\Solutions150\Practices\obj\Debug\Practices.pdb

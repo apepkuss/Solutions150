@@ -1,0 +1,4 @@
+D:\8-GitHub\150\Solutions150\DesignPatternLib\bin\Debug\DesignPatternLib.dll
+D:\8-GitHub\150\Solutions150\DesignPatternLib\bin\Debug\DesignPatternLib.pdb
+D:\8-GitHub\150\Solutions150\DesignPatternLib\obj\Debug\DesignPatternLib.dll
+D:\8-GitHub\150\Solutions150\DesignPatternLib\obj\Debug\DesignPatternLib.pdb
